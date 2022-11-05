@@ -26,6 +26,8 @@ Requirements:
 
 \* means that some prior exposure to quantum optics will help in the project
 
+|**No**| **Topic** | **Students** |
+| --- | --- | --- |
 
 | 1  | Deterministic quantum nonlinear optics with single atoms and virtual photons\*                | Bhavana Parankusam  - 200260014
 
