@@ -28,7 +28,6 @@ Requirements:
 
 |**No**| **Topic** | **Students** |
 | --- | --- | --- |
-
 | 1  | Deterministic quantum nonlinear optics with single atoms and virtual photons\*                | Bhavana Parankusam  - 200260014 Kaustav Prasad - 200260024 Namita Agrawal - 200260031 Rehmat Singh Chawla - 200260039 Samyak Jain - 200260046|
 | 2  | Observation of the all-optical Stern–Gerlach effect in nonlinear optics                       | Vikhyat Agrawal (200260058)
 
