@@ -29,15 +29,7 @@ Requirements:
 |**No**| **Topic** | **Students** |
 | --- | --- | --- |
 
-| 1  | Deterministic quantum nonlinear optics with single atoms and virtual photons\*                | Bhavana Parankusam  - 200260014
-
-Kaustav Prasad - 200260024
-
-Namita Agrawal - 200260031
-
-Rehmat Singh Chawla - 200260039
-
-Samyak Jain - 200260046|
+| 1  | Deterministic quantum nonlinear optics with single atoms and virtual photons\*                | Bhavana Parankusam  - 200260014 Kaustav Prasad - 200260024 Namita Agrawal - 200260031 Rehmat Singh Chawla - 200260039 Samyak Jain - 200260046|
 | 2  | Observation of the all-optical Stern–Gerlach effect in nonlinear optics                       | Vikhyat Agrawal (200260058)
 
 Yashasvi Bhatt (200260059)
@@ -46,7 +38,7 @@ Aneesh Kamat (200260006)
 
 Aditya Panpaliya (200260003)
 
-Subbu Srikantam (200260054)                     |
+Subbu Srikantam (200260054) |
 | 3  | Optical parametric amplification by 2D semiconductors                                         | 200260013 Baddam Hemanth Reddy
 
 200260009 Arnab Mondal
